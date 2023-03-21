@@ -1,6 +1,7 @@
 # Sweep-Generator
 (You can access it from the tag section of the exe file.)
-You can find the corrected version
+
+You can access the fixed version from the tag section.
 
 Sweep Generator (with ui)
 
