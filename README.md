@@ -3,6 +3,5 @@
 
 Sweep Generator (with ui)
 
-when creating file, you need to write .wav and .mp3 at the end of the name
 
-example: sineSweep.wav or sineSweep.mp3
+You can create sweeps in 3 different waveforms at any sample rate and length you want.
